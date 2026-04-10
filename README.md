@@ -142,7 +142,7 @@ Use responsibly and in compliance with applicable laws.
 
 ---
 
-## 👤 Developer
+## 🛠️ Tool
 
 <div align="center">
 
